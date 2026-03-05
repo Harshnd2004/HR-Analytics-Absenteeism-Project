@@ -94,4 +94,4 @@ A scatter plot visualizes the relationship between transportation expense and av
 
 ## Dashboard Preview
 
-![HR Absenteeism Dashboard](HR_Absenteeism_Dashboard.png)
+![HR Absenteeism Dashboard](https://github.com/Harshnd2004/HR-Analytics-Absenteeism-Project/blob/main/Snapshot%20of%20HR%20Dashboard.PNG)
